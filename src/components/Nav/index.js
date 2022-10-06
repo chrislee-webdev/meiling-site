@@ -4,13 +4,18 @@ function Nav() {
 
     const categories = [
         {
-            name: "outdoors",
-            description: "Outdoor photos of Mei-Ling"
+            name: "Gymnastics",
+            description: "Mei-Ling in gymnastics"
         },
 
         {
-            name: "dance",
+            name: "Dance",
             description: "Mei-Ling dancing"
+        },
+
+        {
+            name: "Friends",
+            description: "Mei-Ling and her friends"
         }
     ]
 
