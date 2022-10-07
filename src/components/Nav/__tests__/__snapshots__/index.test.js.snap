@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav component matches snapshot 1`] = `
+<DocumentFragment>
+  <header>
+    <h2>
+      Mei-Ling Altic-Lee
+    </h2>
+    <nav>
+      <ul
+        class="flex-row"
+      >
+        <li
+          class="mx-2"
+        >
+          <a
+            data-testid="about"
+            href="#about"
+          >
+            About Mei-Ling
+          </a>
+        </li>
+        <li>
+          <span>
+            Contact
+          </span>
+        </li>
+        <li
+          class="mx-1"
+        >
+          <span>
+            Gymnastics
+          </span>
+        </li>
+        <li
+          class="mx-1"
+        >
+          <span>
+            Dance
+          </span>
+        </li>
+        <li
+          class="mx-1"
+        >
+          <span>
+            Friends
+          </span>
+        </li>
+      </ul>
+    </nav>
+  </header>
+</DocumentFragment>
+`;
