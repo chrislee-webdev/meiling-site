@@ -25,10 +25,8 @@ function Nav() {
 
     return (
         <header>
-            <h2>
-                Mei-Ling Altic-Lee
-            </h2>
-            <nav>
+            <nav className="flex-row">
+                <h2 id="header-name">Mei-Ling</h2>
                 <ul className="flex-row">
                     <li className="mx-2">
                         <a data-testid="about" href="#about">

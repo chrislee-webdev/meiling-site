@@ -150,12 +150,20 @@ li {
   list-style: none;
 }
 
+nav {
+  justify-content: space-between;
+}
+
 nav a:hover {
   text-decoration: none;
 }
 
 nav  li {
   cursor: pointer;
+}
+
+#header-name {
+  margin-left: 15px;
 }
 
 textarea {
